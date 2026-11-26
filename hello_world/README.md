@@ -1,6 +1,6 @@
 # Hello World (Chapter 1)
 
-This is my first Rust project, created while reading [The Rust Programming Language](https://doc.rust-lang.org/book/ch01-00-getting-started.html) book.
+**This is my very first "Hello World" program written in Rust.** It was created while reading the [The Rust Programming Language](https://doc.rust-lang.org/book/ch01-00-getting-started.html) book.
 
 ## What it does
 It simply prints `Hello, world!` to the console. This is the traditional starting point for learning any new programming language.
