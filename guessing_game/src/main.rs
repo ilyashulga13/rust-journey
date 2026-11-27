@@ -5,6 +5,10 @@ use rand::prelude::*;
 fn main() {
     println!("Guess the number!");
     
+    let secret_number = rand::rng().random_range(1..=100);
+
+    println!("Secret number is: {secret_number}"); //I'll delete it later
+
     println!("Please input your guess.");
 
     let mut guess = String::new();
