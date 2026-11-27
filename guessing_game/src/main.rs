@@ -1,5 +1,7 @@
 use std::io;
 
+use rand::prelude::*;
+
 fn main() {
     println!("Guess the number!");
     
