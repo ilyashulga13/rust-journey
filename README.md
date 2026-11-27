@@ -5,7 +5,7 @@ Welcome to my Rust learning repository! Here I am tracking my progress as I read
 ## 📈 Progress Tracker
 
 - [x] **Ch 1:** Getting Started (Hello World)
-- [ ] **Ch 2:** Programming a Guessing Game
+- [x] **Ch 2:** Programming a Guessing Game
 - [ ] **Ch 3:** Common Programming Concepts
 - [ ] **Ch 4:** Understanding Ownership
 - [ ] **Ch 5:** Using Structs to Structure Related Data
@@ -30,3 +30,4 @@ Welcome to my Rust learning repository! Here I am tracking my progress as I read
 | Project | Description |
 | :--- | :--- |
 | [01_hello_world](./hello_world) | My first Rust program. Prints "Hello, world!" to the console. |
+| [02_guess_game](./guess_game) | My second Rust program. Simple game in the console. |
